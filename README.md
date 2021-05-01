@@ -16,9 +16,9 @@
 
 ## ***</>*** Alguns Projetos
 
-### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [ROBOFRIENDS](https://github.com/DimitriMll/robofriends)
+### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz)
 
-### 🌐 [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz)
+### 🌐 [Alura-Typer](https://github.com/espedrozo/Alura-Typer)
 
 ### ✂️ [Barbearia Alura 4.0](https://github.com/espedrozo/site-barbearia)
 
