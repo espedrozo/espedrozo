@@ -16,7 +16,7 @@
 
 ## ***</>*** Some Projects
 
-### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz)
+### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz) - https://tolkienquiz.vercel.app/
 
 ### 🌐 [Alura-Typer](https://github.com/espedrozo/Alura-Typer)
 
