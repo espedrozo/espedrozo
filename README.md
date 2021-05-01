@@ -15,15 +15,15 @@
 
 
 ## ***</>*** Alguns Projetos
-<--
+
 ### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [ROBOFRIENDS](https://github.com/DimitriMll/robofriends)
 
-### 🌐 [NLW#3](https://github.com/DimitriMll/nlw03)
+### 🌐 [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz)
 
-### ✂️ [Barbearia Alura 4.0](https://github.com/DimitriMll/barbearia-alura-4)
+### ✂️ [Barbearia Alura 4.0](https://github.com/espedrozo/site-barbearia)
 
-### 🍴 [Aparecida Nutrição](https://github.com/DimitriMll/aparecida-nutricao-js)
--->
+### 🍴 [Nutricionista-Pacientes](https://github.com/espedrozo/Nutricionista-Pacientes)
+
 
 <!--
 **espedrozo/espedrozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
