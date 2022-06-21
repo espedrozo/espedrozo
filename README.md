@@ -14,7 +14,7 @@
 
 ## ***</>*** Some Projects:
 
-### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz) - [Tolkien Quiz](https://tolkienquiz.vercel.app/)
+### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [Tolkien Quiz Repository](https://github.com/espedrozo/TolkienQuiz) - [Tolkien Quiz](https://tolkienquiz.vercel.app/)
 
 ### 🤖 [RoboFriends Repository](https://github.com/espedrozo/roboFriends) - [RoboFriends](https://espedrozo.github.io/roboFriends/)
 
