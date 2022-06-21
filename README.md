@@ -16,7 +16,7 @@
 
 ### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [TolkienQuiz](https://github.com/espedrozo/TolkienQuiz) - https://tolkienquiz.vercel.app/
 
-### 🤖 [Robo Friends](https://espedrozo.github.io/roboFriends/) - espedrozo.github.io/robofriends/
+### 🤖 [RoboFriends Repository](https://espedrozo.github.io/roboFriends/) - [RoboFriends Deployed](espedrozo.github.io/robofriends/)
 
 ### 🌐 [Alura-Typer](https://github.com/espedrozo/Alura-Typer)
 
