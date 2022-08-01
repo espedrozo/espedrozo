@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/espedrozo)](https://github.com/espedrozo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel-savanhago-pedrozo-b2308276/)](https://www.linkedin.com/in/emanuel-savanhago-pedrozo-b2308276/)
 
-## ***</>*** About me
+## ***</>*** About me ***</>***
 
 - 💻 **Analysis and System Development Student** 🎓
 
