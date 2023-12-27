@@ -19,6 +19,8 @@
 
 ### 🤖 [RoboFriends Repository](https://github.com/espedrozo/roboFriends) - [RoboFriends](https://espedrozo.github.io/roboFriends/)
 
+### 🔨 [Artezado Rústico](https://github.com/espedrozo/artezanorustico) - [Artezado](https://espedrozo.github.io/artezanorustico/)
+
 ### 🌐 [Alura-Typer](https://github.com/espedrozo/Alura-Typer)
 
 ### ✂️ [Barbearia Alura 4.0](https://github.com/espedrozo/site-barbearia)
