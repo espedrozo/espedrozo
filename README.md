@@ -15,6 +15,8 @@
 
 ## ***</>*** Some Projects:
 
+### [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" height="25" />](https://docs.microsoft.com/pt-br/dotnet/csharp/) [SyncData Repository](https://github.com/espedrozo/AspNetProjMVC) - [SyncData Website](https://aspnetprojmvc20240125005454.azurewebsites.net/)
+
 ### [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>](https://reactjs.org/) [Tolkien Quiz Repository](https://github.com/espedrozo/TolkienQuiz) - [Tolkien Quiz](https://tolkienquiz.vercel.app/)
 
 ### 🤖 [RoboFriends Repository](https://github.com/espedrozo/roboFriends) - [RoboFriends](https://espedrozo.github.io/roboFriends/)
