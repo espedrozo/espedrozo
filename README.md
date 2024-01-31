@@ -25,7 +25,7 @@
 
 ### 🌐 [Alura-Typer](https://github.com/espedrozo/Alura-Typer)
 
-### ✂️ [Barbearia Alura 4.0](https://github.com/espedrozo/site-barbearia)
+### ✂️ [Barbearia Alura 4.0](https://github.com/espedrozo/site-barbearia) - [Barbearia](https://espedrozo.github.io/site-barbearia/)
 
 ### 🍴 [Nutricionista-Pacientes](https://github.com/espedrozo/Nutricionista-Pacientes)
 
